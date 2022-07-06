@@ -1,0 +1,11 @@
+admin
+username : admin
+password : admin	
+
+guru
+username : guru@gmail.com
+password : guru
+
+siswa 
+username : 123
+password : siswa
